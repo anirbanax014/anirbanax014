@@ -64,9 +64,9 @@
 
 ## 🌐 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/anirban-das" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:anirbanofficialmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/AnirbanDas" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="[https://www.linkedin.com/in/anirban-das](https://www.linkedin.com/in/anirban-das-79841a2b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:anirbandas474671@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="[https://github.com/AnirbanDas](https://github.com/anirbanax014)" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
